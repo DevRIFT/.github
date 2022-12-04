@@ -1,6 +1,6 @@
 # DevRIFT
 
-![DevRIFT Cover Image.](https://github.com/DevRIFT/.github/blob/main/profile/assets/DevRIFT.png)
+![DevRIFT Cover Image.](https://github.com/DevRIFT/.github/blob/main/profile/assets/cover.png)
 
 ## Contact Us
 
