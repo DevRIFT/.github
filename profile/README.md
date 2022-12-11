@@ -6,4 +6,4 @@
 
 support@devrift.co
 
-<sub>Copyright © 2022 DevRIFT. All rights reserved.</sub>
+<sub>Copyright © 2022 DevRIFT Limited. All rights reserved.</sub>
