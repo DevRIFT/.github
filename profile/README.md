@@ -1,6 +1,6 @@
 # DevRIFT
 
-### Welcome to the DevRIFT's GitHub!👋
+### Welcome to DevRIFT's GitHub!👋
 
 Looking for help? [Try our Support Page](https://support.devrift.co)
 
